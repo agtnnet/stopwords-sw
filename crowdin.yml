@@ -1,0 +1,3 @@
+files:
+  - source: stopwords-sw.json
+    translation: '%language%'
